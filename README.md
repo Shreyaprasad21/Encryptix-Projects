@@ -11,3 +11,4 @@ Built a Netflix recommendation system using collaborative filtering techniques t
 Implemented a face detection and recognition system utilizing OpenCV and deep learning techniques for accurate and efficient facial recognition.
 
 
+    
