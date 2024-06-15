@@ -10,11 +10,13 @@ Built a Netflix recommendation system using collaborative filtering techniques t
 ## Face Detection and Recognition System
 Implemented a face detection and recognition system utilizing OpenCV and deep learning techniques for accurate and efficient facial recognition.
 
-## Project Links
+## Project vedios
 
-- [Face Detection](https://drive.google.com/file/d/188fPvWhM2tF87PPiOCNgZuh7yVabv1j0/view?usp=sharing)
-- [Tic-Tac-Toe AI](https://drive.google.com/file/d/1isz4w_ApLlzJWpZ6JF-uyQEwvvvu08rW/view?usp=sharing)
-- [Netflix Recommendation System](https://drive.google.com/file/d/1oVvCJ0_ndo_vX4IdTbc68iMdn75jaLr6/view?usp=sharing)
+https://github.com/Shreyaprasad21/Encryptix_Projects/assets/142075353/84281ed1-fc1d-446b-8dfe-2adfd636c7b8
 
 
-    
+https://github.com/Shreyaprasad21/Encryptix_Projects/assets/142075353/973f701a-baa5-4786-a770-01a2d3642a8d
+
+https://github.com/Shreyaprasad21/Encryptix_Projects/assets/142075353/5fc8fc22-5096-491e-8d7f-e0a29873ecca
+
+
