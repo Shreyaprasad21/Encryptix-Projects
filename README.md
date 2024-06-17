@@ -12,6 +12,7 @@ Implemented a face detection and recognition system utilizing OpenCV and deep le
 
 ## Project vedios
 
+
 https://github.com/Shreyaprasad21/Encryptix_Projects/assets/142075353/84281ed1-fc1d-446b-8dfe-2adfd636c7b8
 
 https://github.com/Shreyaprasad21/Encryptix_Projects/assets/142075353/973f701a-baa5-4786-a770-01a2d3642a8d
