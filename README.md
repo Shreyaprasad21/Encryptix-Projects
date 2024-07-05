@@ -20,7 +20,7 @@ Implemented a face detection and recognition system utilizing OpenCV and deep le
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/facial-recognition-system.git
+    https://github.com/Shreyaprasad21/Encryptix-Projects.git
     ```
 2. Navigate to the project directory:
     ```bash
