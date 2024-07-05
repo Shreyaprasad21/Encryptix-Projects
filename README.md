@@ -1,7 +1,9 @@
-# Encryptix_Projects
-# Projects
+# Encryptix Internship Projects
+This repository contains the three projects completed as part of the internship program at Encryptix.
 
-## Tic-Tac-Toe AI
+## Projects
+
+## Project-3 Tic-Tac-Toe AI
 Developed an AI-driven Tic-Tac-Toe game leveraging alpha-beta pruning and minimax algorithms, achieving up to 50% faster decision-making.
 
 ## Netflix Recommendation System
