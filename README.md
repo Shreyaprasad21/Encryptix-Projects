@@ -35,7 +35,7 @@ Implemented a face detection and recognition system utilizing OpenCV and deep le
 1. Ensure you have a camera connected to your system.
 2. Run the face detection and recognition script:
     ```bash
-    python face_recognition.py
+    python -m streamlit run Streamlit_cam.py
     ```
 
 ### Dependencies
@@ -44,7 +44,7 @@ Implemented a face detection and recognition system utilizing OpenCV and deep le
 - NumPy
 
 ### Files
-- `face_recognition.py`: Main script for face detection and recognition.
+- `Streamlit_cam.py`: Main script for face detection and recognition.
 - `requirements.txt`: List of required Python packages.
 
 ---
@@ -74,7 +74,7 @@ Built a Netflix recommendation system using collaborative filtering techniques t
 1. Prepare your dataset or use the provided sample dataset.
 2. Run the recommendation system script:
     ```bash
-    python recommend.py
+    Recommender-system-project.ipynb
     ```
 
 ### Dependencies
@@ -84,9 +84,9 @@ Built a Netflix recommendation system using collaborative filtering techniques t
 - surprise
 
 ### Files
-- `recommend.py`: Main script for generating movie recommendations.
+- `Recommender-system-project.ipynb`: Main script for generating movie recommendations.
 - `requirements.txt`: List of required Python packages.
-- `data/`: Directory for storing datasets.
+- `dataset`: Directory for storing datasets.
 
 ---
 
@@ -113,14 +113,14 @@ Developed an AI-driven Tic-Tac-Toe game leveraging alpha-beta pruning and minima
 ### Usage
 1. Run the Tic-Tac-Toe game script:
     ```bash
-    python tic_tac_toe.py
+    Tic-Tac-Toe-AI.py
     ```
 
 ### Dependencies
 - None (standard Python library)
 
 ### Files
-- `tic_tac_toe.py`: Main script for the Tic-Tac-Toe game.
+- `Tic-Tac-Toe-AI.py`: Main script for the Tic-Tac-Toe game.
 
 ---
 
