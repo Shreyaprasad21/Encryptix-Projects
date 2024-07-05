@@ -24,7 +24,7 @@ Implemented a face detection and recognition system utilizing OpenCV and deep le
     ```
 2. Navigate to the project directory:
     ```bash
-    cd facial-recognition-system
+    cd FACE_DETECT/Face_detection
     ```
 3. Install the required dependencies:
     ```bash
@@ -62,16 +62,13 @@ Built a Netflix recommendation system using collaborative filtering techniques t
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/netflix-recommendation-system.git
+    https://github.com/Shreyaprasad21/Encryptix-Projects.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd netflix-recommendation-system
+    cd Netflix-Recommenders-System
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+3. Install the required dependencies
 
 ### Usage
 1. Prepare your dataset or use the provided sample dataset.
@@ -106,11 +103,11 @@ Developed an AI-driven Tic-Tac-Toe game leveraging alpha-beta pruning and minima
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe-ai.git
+    https://github.com/Shreyaprasad21/Encryptix-Projects.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd tic-tac-toe-ai
+    cd TICTACTOE/Tic-Tac-Toe-AI
     ```
 
 ### Usage
@@ -132,19 +129,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-For any questions or issues, please open an issue in the repository or contact me at your.email@example.com.
-
-## Project vedios
-
-https://github.com/Shreyaprasad21/Encryptix_Projects/assets/142075353/84281ed1-fc1d-446b-8dfe-2adfd636c7b8
-
-https://github.com/Shreyaprasad21/Encryptix_Projects/assets/142075353/973f701a-baa5-4786-a770-01a2d3642a8d
-
-https://github.com/Shreyaprasad21/Encryptix_Projects/assets/142075353/5fc8fc22-5096-491e-8d7f-e0a29873ecca
-
 
 
 
